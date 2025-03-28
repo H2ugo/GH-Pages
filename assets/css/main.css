@@ -877,6 +877,13 @@ textarea {
   width: auto;
   text-transform: uppercase;
 }
+/* ADDED : menu icon color */
+.navbar .navbar__toggle-inner,
+.navbar .navbar__toggle-inner::before,
+.navbar .navbar__toggle-inner::after {
+  background-color: var(--link-color) !important;
+  /* ADDED*/
+}
 .navbar .navbar__menu li a,
 .navbar .navbar__menu li span[aria-haspopup=true] {
   color: var(--link-color);
@@ -1158,7 +1165,7 @@ textarea {
 .navbar_mobile_overlay {
   -webkit-animation: popup 0.46s cubic-bezier(0.6, 0.04, 0.98, 0.335) forwards;
           animation: popup 0.46s cubic-bezier(0.6, 0.04, 0.98, 0.335) forwards;
-  background: var(--white);
+  background: var(--black); /*OVERRIDE*/
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1240,7 +1247,7 @@ textarea {
 }
 
 .navbar_mobile_sidebar {
-  background: var(--white);
+  background: var(--black); /*OVERRIDE*/
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
           box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
   height: 100vh;
@@ -1334,7 +1341,7 @@ textarea {
 }
 
 .js-loading .preloader {
-  background: var(--white);
+  background: var(--black); /*OVERRIDE*/
   bottom: 0;
   display: block;
   height: 100vh;
@@ -2821,7 +2828,7 @@ textarea {
 }
 .footer--dark a,
 .footer--dark .footer__nav a {
-  color: var(--white);
+  color: var(--link-color); /* COLOR OVERRIDE*/
 }
 .footer--dark .footer__social a:hover svg {
   fill: var(--white);
@@ -3087,4 +3094,8 @@ textarea {
 .pswp .pswp__button {
   -webkit-box-shadow: none;
           box-shadow: none;
+}
+/*ADDED*/
+svg {
+    fill: var(--link-color); 
 }
