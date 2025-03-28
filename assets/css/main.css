@@ -1860,20 +1860,20 @@ textarea {
   display: block;
   margin: 0 auto;
   max-width: 100%;
-  max-height: 100vh; /* OVERRIDE: Limits the image height to the screen height */
+  /* max-height: 100vh; /* OVERRIDE: Limits the image height to the screen height */
   position: relative;
   width: 100%;
-  height: auto; /* OVERRIDE: Keeps the aspect ratio */
+  /* height: auto; /* OVERRIDE: Keeps the aspect ratio */
 }
 .featured-image--full {
   width: 100%;
 }
 .featured-image > img {
   display: block;
-  /* OVERRIDE: removed height: 100%; */
+  height: 100%;
   width: 100%;
-  height: 100vh; /* OVERRIDE: Makes the image fit the screen height */
-  object-fit: contain; /* OVERRIDE: Ensures the whole image fits without distortion */
+  /* height: 100vh; /* OVERRIDE: Makes the image fit the screen height */
+  /* object-fit: contain; /* OVERRIDE: Ensures the whole image fits without distortion */
 }
 .featured-image > figcaption {
   bottom: 1rem;
@@ -3099,7 +3099,7 @@ textarea {
   -webkit-box-shadow: none;
           box-shadow: none;
 }
-/*OVERRID-ADDED:*/
+/*OVERRIDE-ADDED:*/
 svg {
-    fill: var(--link-color); 
+    fill: var(--link-color) !important; 
 }
