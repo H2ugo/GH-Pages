@@ -2596,6 +2596,10 @@ textarea {
     display: inline-block;
   }
 }
+/*OVERRIDE - ADDED */
+.pagination > a svg {
+  fill: var(--link-color);
+}
 .pagination > a:hover svg {
   fill: var(--color);
 }
@@ -2784,7 +2788,7 @@ textarea {
   }
 }
 .popup-close::before, .popup-close::after {
-  background-color: var(--gray-1);
+  background-color: var(--link-color); /* OVERRIDE */
   left: 19px;
   content: " ";
   height: 2rem;
@@ -3099,4 +3103,4 @@ textarea {
   -webkit-box-shadow: none;
           box-shadow: none;
 }
-/*OVERRIDE-ADDED:*/
+
