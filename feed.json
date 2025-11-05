@@ -1,179 +1,170 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "HUGO HALLÉ",
+    "title": "PRIMORDIAL SOUPS",
     "description": "",
-    "home_page_url": "https://hugohalle.com",
-    "feed_url": "https://hugohalle.com/feed.json",
+    "home_page_url": "https://primordialsoups.com",
+    "feed_url": "https://primordialsoups.com/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Hugo Halle"
+        "name": "Primordial Soup"
     },
     "items": [
         {
-            "id": "https://hugohalle.com/northern-fire-2/",
-            "url": "https://hugohalle.com/northern-fire-2/",
-            "title": "Banner",
-            "image": "https://hugohalle.com/media/posts/40/Figment2CV_AppStore_AppsGamesWatch.jpg",
+            "id": "https://primordialsoups.com/yes-13-4/",
+            "url": "https://primordialsoups.com/yes-13-4/",
+            "title": "Colourful Day",
+            "image": "https://primordialsoups.com/media/posts/23/21.jpg",
             "author": {
-                "name": "Hugo Halle"
+                "name": "Primordial Soup"
             },
             "tags": [
-                   "Key-Art // Illustration",
-                   "Illustration"
+                   "Valeria",
+                   "Hugo",
+                   "Collaboration"
             ],
-            "date_published": "2025-06-12T08:33:04+02:00",
-            "date_modified": "2025-06-12T08:34:41+02:00"
+            "date_published": "2025-05-25T23:45:11+02:00",
+            "date_modified": "2025-05-25T23:51:38+02:00"
         },
         {
-            "id": "https://hugohalle.com/northern-fire/",
-            "url": "https://hugohalle.com/northern-fire/",
-            "title": "Northern Fire",
-            "image": "https://hugohalle.com/media/posts/39/FenrirFaceOff_08.jpg",
+            "id": "https://primordialsoups.com/lovehate-relationship/",
+            "url": "https://primordialsoups.com/lovehate-relationship/",
+            "title": "Love/Hate Relationship",
+            "image": "https://primordialsoups.com/media/posts/22/20.jpg",
             "author": {
-                "name": "Hugo Halle"
+                "name": "Primordial Soup"
             },
             "tags": [
-                   "Key-Art // Illustration",
-                   "Illustration"
+                   "Valeria",
+                   "Hugo",
+                   "Collaboration"
             ],
-            "date_published": "2025-05-14T22:49:38+02:00",
-            "date_modified": "2025-05-14T22:56:05+02:00"
+            "date_published": "2025-05-25T23:45:02+02:00",
+            "date_modified": "2025-05-25T23:50:14+02:00"
         },
         {
-            "id": "https://hugohalle.com/video-ghastlies/",
-            "url": "https://hugohalle.com/video-ghastlies/",
-            "title": "Video Ghastlies",
-            "summary": "Key Art for the upcoming horror game Video Ghastlies. Indie Publisher ORO Interactive approached me to help them create the key art for the exciting&hellip;",
-            "content_html": "<div class=\"project-text formatted-text container-sm\">\n<p>Key Art for the upcoming horror game Video Ghastlies.</p>\n<div class=\"project-description\">\n<p>Indie Publisher <a href=\"https://www.orointeractive.com/\" target=\"_blank\" rel=\"noopener noreferrer\">ORO Interactive</a> approached me to help them create the key art for the exciting horror title Video Ghastlies. <br>Their pitch was to produce an image evocative of the 80s horror-film VHS covers. Hard to say no to that.</p>\n<p>Beside the main artwork, I also delivered the variations designed to be integrated in Steam.</p>\n</div>\n<figure ><figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://hugohalle.com/media/posts/38/hugo-halle-steamstore-assetshowcase-2.jpg\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://hugohalle.com/media/posts/38/responsive/hugo-halle-steamstore-assetshowcase-2-xs.jpg 300w ,https://hugohalle.com/media/posts/38/responsive/hugo-halle-steamstore-assetshowcase-2-sm.jpg 480w ,https://hugohalle.com/media/posts/38/responsive/hugo-halle-steamstore-assetshowcase-2-md.jpg 749w ,https://hugohalle.com/media/posts/38/responsive/hugo-halle-steamstore-assetshowcase-2-xl.jpg 1200w ,https://hugohalle.com/media/posts/38/responsive/hugo-halle-steamstore-assetshowcase-2-xxl.jpg 1600w ,https://hugohalle.com/media/posts/38/responsive/hugo-halle-steamstore-assetshowcase-2-xxxl.jpg 2560w\"></figure>\n<figcaption >Steam Page Assets</figcaption>\n</figure>\n<p> </p>\n</div>",
-            "image": "https://hugohalle.com/media/posts/38/VideoGhastlies_KeyArt_1440_16x9_NoLogo.jpg",
+            "id": "https://primordialsoups.com/carnival/",
+            "url": "https://primordialsoups.com/carnival/",
+            "title": "Carnival",
+            "image": "https://primordialsoups.com/media/posts/21/22.jpg",
             "author": {
-                "name": "Hugo Halle"
+                "name": "Primordial Soup"
             },
             "tags": [
-                   "Key-Art // Illustration",
-                   "Key Art"
+                   "Oona",
+                   "Hugo",
+                   "Heidi",
+                   "Collaboration"
             ],
-            "date_published": "2025-05-14T22:49:23+02:00",
-            "date_modified": "2025-05-14T22:54:46+02:00"
+            "date_published": "2025-05-25T23:44:53+02:00",
+            "date_modified": "2025-05-25T23:49:32+02:00"
         },
         {
-            "id": "https://hugohalle.com/stone-golems/",
-            "url": "https://hugohalle.com/stone-golems/",
-            "title": "Stone Golems",
-            "summary": "Process.",
-            "content_html": "<p class=\"align-left\">Process.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_SketchV1.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_SketchV1-thumbnail.png\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_LineV1.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_LineV1-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_ColSketchV2.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_ColSketchV2-thumbnail.png\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_Col_WIP02.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_Col_WIP02-thumbnail.png\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_16x9_2K.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_16x9_2K-thumbnail.png\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n</div></div>",
-            "image": "https://hugohalle.com/media/posts/23/2024-10-02-18.30.13.jpg",
+            "id": "https://primordialsoups.com/date-night/",
+            "url": "https://primordialsoups.com/date-night/",
+            "title": "Date Night",
+            "image": "https://primordialsoups.com/media/posts/20/23.jpg",
             "author": {
-                "name": "Hugo Halle"
+                "name": "Primordial Soup"
             },
             "tags": [
-                   "Key-Art // Illustration",
-                   "Illustration"
+                   "Oona",
+                   "Hugo",
+                   "Collaboration"
             ],
-            "date_published": "2025-03-21T12:48:31+01:00",
-            "date_modified": "2025-04-09T12:02:04+02:00"
+            "date_published": "2025-05-25T23:44:50+02:00",
+            "date_modified": "2025-05-25T23:48:30+02:00"
         },
         {
-            "id": "https://hugohalle.com/jester-final-act/",
-            "url": "https://hugohalle.com/jester-final-act/",
-            "title": "The Jester&#x27;s Final Act",
-            "summary": "Story illustration for the game Figment 2: Creed Valley. It ended up being used for a bunch of marketing material. Color variations",
-            "content_html": "<p>Story illustration for the game Figment 2: Creed Valley.<br>It ended up being used for a bunch of marketing material.</p>\n<hr>\n<p>Color variations</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/22/gallery/FigmentCV_JesterIllu_2K.jpg\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/22/gallery/FigmentCV_JesterIllu_2K-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/22/gallery/FigmentCV_JesterIllu_Pink_2K.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/22/gallery/FigmentCV_JesterIllu_Pink_2K-thumbnail.png\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n</div></div>",
-            "image": "https://hugohalle.com/media/posts/22/FigmentCV_JesterIllu_2K.jpg",
+            "id": "https://primordialsoups.com/feathers/",
+            "url": "https://primordialsoups.com/feathers/",
+            "title": "Feathers",
+            "image": "https://primordialsoups.com/media/posts/19/4.jpg",
             "author": {
-                "name": "Hugo Halle"
+                "name": "Primordial Soup"
             },
             "tags": [
-                   "Key-Art // Illustration",
-                   "Illustration"
+                   "Valeria",
+                   "Solo"
             ],
-            "date_published": "2025-03-21T12:42:57+01:00",
-            "date_modified": "2025-04-09T12:02:18+02:00"
+            "date_published": "2025-04-02T15:41:51+02:00",
+            "date_modified": "2025-05-25T23:48:26+02:00"
         },
         {
-            "id": "https://hugohalle.com/titan-hunt/",
-            "url": "https://hugohalle.com/titan-hunt/",
-            "title": "Titan Hunt",
-            "summary": "Process.",
-            "content_html": "<p class=\"align-left\">Process.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/21/gallery/TrashTitans_BossFight_01-2.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/21/gallery/TrashTitans_BossFight_01-2-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/21/gallery/TrashTitans_BossFight_02.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/21/gallery/TrashTitans_BossFight_02-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/21/gallery/TrashTitans_BossFight_03.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/21/gallery/TrashTitans_BossFight_03-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/21/gallery/TrashTitans_BossFight_04.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/21/gallery/TrashTitans_BossFight_04-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/21/gallery/TrashTitans_BossFight_2k.jpg\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/21/gallery/TrashTitans_BossFight_2k-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n</div></div>",
-            "image": "https://hugohalle.com/media/posts/21/TrashTitans_BossFightD.jpg",
+            "id": "https://primordialsoups.com/wonderland/",
+            "url": "https://primordialsoups.com/wonderland/",
+            "title": "Wonderland",
+            "image": "https://primordialsoups.com/media/posts/18/5.jpg",
             "author": {
-                "name": "Hugo Halle"
+                "name": "Primordial Soup"
             },
             "tags": [
-                   "Key-Art // Illustration",
-                   "Illustration"
+                   "Valeria",
+                   "Solo"
             ],
-            "date_published": "2025-03-21T12:35:14+01:00",
-            "date_modified": "2025-04-09T12:02:26+02:00"
+            "date_published": "2025-04-02T15:41:51+02:00",
+            "date_modified": "2025-05-25T23:48:22+02:00"
         },
         {
-            "id": "https://hugohalle.com/odins-palm-2/",
-            "url": "https://hugohalle.com/odins-palm-2/",
-            "title": "Odin&#x27;s Palm",
-            "summary": "Process.",
-            "content_html": "<p class=\"align-left\">Process.</p>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/20/gallery/IMG_0258.jpg\" data-size=\"2560x1440\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/20/gallery/IMG_0258-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/20/gallery/Comp01_Wide.PNG\" data-size=\"1757x987\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/20/gallery/Comp01_Wide-thumbnail.PNG\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/20/gallery/OdinsPalm02.jpg\" data-size=\"4000x2251\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/20/gallery/OdinsPalm02-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hugohalle.com/media/posts/20/gallery/OdinsPalm02F.jpg\" data-size=\"4000x2251\"><img loading=\"lazy\" src=\"https://hugohalle.com/media/posts/20/gallery/OdinsPalm02F-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n</div></div>",
-            "image": "https://hugohalle.com/media/posts/20/OdinsPalm02F.jpg",
+            "id": "https://primordialsoups.com/deep-fish/",
+            "url": "https://primordialsoups.com/deep-fish/",
+            "title": "Deep Fish",
+            "image": "https://primordialsoups.com/media/posts/17/6.jpg",
             "author": {
-                "name": "Hugo Halle"
+                "name": "Primordial Soup"
             },
             "tags": [
-                   "Key-Art // Illustration",
-                   "Illustration"
+                   "Valeria",
+                   "Solo"
             ],
-            "date_published": "2025-03-21T12:34:58+01:00",
-            "date_modified": "2025-04-09T12:02:33+02:00"
+            "date_published": "2025-04-02T15:41:08+02:00",
+            "date_modified": "2025-05-25T23:48:18+02:00"
         },
         {
-            "id": "https://hugohalle.com/figment2-creedvalley/",
-            "url": "https://hugohalle.com/figment2-creedvalley/",
-            "title": "Figment 2:Creed Valley",
-            "summary": "Main illustration used to market the game on most platforms &amp;events. Project Overview",
-            "content_html": "<div class=\"project-text formatted-text container-sm\">\n<p>Main illustration used to market the game on most platforms &amp;events. </p>\n<p><a href=\"https://hugohalle.com/figment-2-creed-valley-2/\">Project Overview</a></p>\n<br>\n<figure ><figure class=\"post__image--wide\"><img loading=\"lazy\"  src=\"https://hugohalle.com/media/posts/19/Figment2_CreedValley_KeyArt_BedtimeDigitalGames.jpg\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://hugohalle.com/media/posts/19/responsive/Figment2_CreedValley_KeyArt_BedtimeDigitalGames-xs.jpg 300w ,https://hugohalle.com/media/posts/19/responsive/Figment2_CreedValley_KeyArt_BedtimeDigitalGames-sm.jpg 480w ,https://hugohalle.com/media/posts/19/responsive/Figment2_CreedValley_KeyArt_BedtimeDigitalGames-md.jpg 749w ,https://hugohalle.com/media/posts/19/responsive/Figment2_CreedValley_KeyArt_BedtimeDigitalGames-xl.jpg 1200w ,https://hugohalle.com/media/posts/19/responsive/Figment2_CreedValley_KeyArt_BedtimeDigitalGames-xxl.jpg 1600w ,https://hugohalle.com/media/posts/19/responsive/Figment2_CreedValley_KeyArt_BedtimeDigitalGames-xxxl.jpg 2560w\"></figure>\n<figcaption >Main Cover Art</figcaption>\n</figure>\n<figure ><figure class=\"post__image--wide\"><img loading=\"lazy\"  src=\"https://hugohalle.com/media/posts/19/Figment2CV_KeyArtNoJeter_1920x1080p.png\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://hugohalle.com/media/posts/19/responsive/Figment2CV_KeyArtNoJeter_1920x1080p-xs.png 300w ,https://hugohalle.com/media/posts/19/responsive/Figment2CV_KeyArtNoJeter_1920x1080p-sm.png 480w ,https://hugohalle.com/media/posts/19/responsive/Figment2CV_KeyArtNoJeter_1920x1080p-md.png 749w ,https://hugohalle.com/media/posts/19/responsive/Figment2CV_KeyArtNoJeter_1920x1080p-xl.png 1200w ,https://hugohalle.com/media/posts/19/responsive/Figment2CV_KeyArtNoJeter_1920x1080p-xxl.png 1600w ,https://hugohalle.com/media/posts/19/responsive/Figment2CV_KeyArtNoJeter_1920x1080p-xxxl.png 2560w\"></figure>\n<figcaption >Variant</figcaption>\n</figure>\n<p> </p>\n</div>",
-            "image": "https://hugohalle.com/media/posts/19/2024-10-02-18.29.18-2.jpg",
+            "id": "https://primordialsoups.com/nosy/",
+            "url": "https://primordialsoups.com/nosy/",
+            "title": "Nosy",
+            "image": "https://primordialsoups.com/media/posts/16/11.jpg",
             "author": {
-                "name": "Hugo Halle"
+                "name": "Primordial Soup"
             },
             "tags": [
-                   "Key-Art // Illustration",
-                   "Key Art"
+                   "Hugo",
+                   "Collaboration",
+                   "Camilla"
             ],
-            "date_published": "2025-03-21T12:24:32+01:00",
-            "date_modified": "2025-04-09T12:02:50+02:00"
+            "date_published": "2025-04-02T15:40:31+02:00",
+            "date_modified": "2025-05-25T23:48:15+02:00"
         },
         {
-            "id": "https://hugohalle.com/saveandsound-2023/",
-            "url": "https://hugohalle.com/saveandsound-2023/",
-            "title": "Save&amp;Sound 2023 ",
-            "summary": "Key Art for the Save &amp; Sound online music festival - 2023 edition Used as a base for the edition's visual identity, and every piece&hellip;",
-            "content_html": "<div class=\"project-text formatted-text container-sm\">\n<p>Key Art for the Save &amp; Sound online music festival - 2023 edition <br>Used as a base for the edition's visual identity, and every piece of marketing material.</p>\n<p><strong>Save &amp; Sound:</strong> <br>• Steam front page feature <br>• Online music festival over 4 days <br>• Unique content from 70+ video games</p>\n<p>The event is organized by <a href=\"Bedtime.io\" target=\"_blank\" rel=\"noopener noreferrer\">Bedtime Digital Games</a>. <br><a href=\"https://www.saveandsound.io/2023\">https://www.saveandsound.io/2023</a></p>\n<figure ><figure class=\"post__image--wide\"><img loading=\"lazy\"  src=\"https://hugohalle.com/media/posts/18/SS23_KeyArt_16x9_2K.jpg\" alt=\"\" width=\"2560\" height=\"1440\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://hugohalle.com/media/posts/18/responsive/SS23_KeyArt_16x9_2K-xs.jpg 300w ,https://hugohalle.com/media/posts/18/responsive/SS23_KeyArt_16x9_2K-sm.jpg 480w ,https://hugohalle.com/media/posts/18/responsive/SS23_KeyArt_16x9_2K-md.jpg 749w ,https://hugohalle.com/media/posts/18/responsive/SS23_KeyArt_16x9_2K-xl.jpg 1200w ,https://hugohalle.com/media/posts/18/responsive/SS23_KeyArt_16x9_2K-xxl.jpg 1600w ,https://hugohalle.com/media/posts/18/responsive/SS23_KeyArt_16x9_2K-xxxl.jpg 2560w\"></figure>\n<figcaption >Official Poster</figcaption>\n</figure>\n<figure ><figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://hugohalle.com/media/posts/18/SS23_AssetShowcase_2k.jpg\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://hugohalle.com/media/posts/18/responsive/SS23_AssetShowcase_2k-xs.jpg 300w ,https://hugohalle.com/media/posts/18/responsive/SS23_AssetShowcase_2k-sm.jpg 480w ,https://hugohalle.com/media/posts/18/responsive/SS23_AssetShowcase_2k-md.jpg 749w ,https://hugohalle.com/media/posts/18/responsive/SS23_AssetShowcase_2k-xl.jpg 1200w ,https://hugohalle.com/media/posts/18/responsive/SS23_AssetShowcase_2k-xxl.jpg 1600w ,https://hugohalle.com/media/posts/18/responsive/SS23_AssetShowcase_2k-xxxl.jpg 2560w\"></figure>\n<figcaption >Graphical Assets</figcaption>\n</figure>\n<p> </p>\n</div>",
-            "image": "https://hugohalle.com/media/posts/18/hugo-halle-ss23-keyart-notxt-v2-16x9-4k.jpg",
+            "id": "https://primordialsoups.com/good-daybad-day/",
+            "url": "https://primordialsoups.com/good-daybad-day/",
+            "title": "Good Day/Bad Day",
+            "image": "https://primordialsoups.com/media/posts/15/10.jpg",
             "author": {
-                "name": "Hugo Halle"
+                "name": "Primordial Soup"
             },
             "tags": [
-                   "Key-Art // Illustration",
-                   "Key Art"
+                   "Nana",
+                   "Hugo",
+                   "Collaboration"
             ],
-            "date_published": "2025-03-21T12:21:53+01:00",
-            "date_modified": "2025-04-09T12:04:40+02:00"
+            "date_published": "2025-04-02T15:39:17+02:00",
+            "date_modified": "2025-05-25T23:48:10+02:00"
         },
         {
-            "id": "https://hugohalle.com/saveandsound-2024/",
-            "url": "https://hugohalle.com/saveandsound-2024/",
-            "title": "Save&amp;Sound 2024",
-            "summary": "Key Art for the Save &amp; Sound online music festival - 2024 edition Used as a base for the edition's visual identity, and every piece&hellip;",
-            "content_html": "<div class=\"project-text formatted-text container-sm\">\n<p>Key Art for the Save &amp; Sound online music festival - 2024 edition <br>Used as a base for the edition's visual identity, and every piece of marketing material.</p>\n<p><strong>Save &amp; Sound:</strong> <br>• Steam front page feature <br>• Online music festival over 4 days <br>• Unique content from 70+ video games</p>\n<p>The event is organized by <a href=\"Bedtime.io\" target=\"_blank\" rel=\"noopener noreferrer\">Bedtime Digital Games</a>. <br><a href=\"https://www.saveandsound.io\">https://www.saveandsound.io</a></p>\n<figure ><figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://hugohalle.com/media/posts/17/SS24_KeyAr_16x9_4K.png\" alt=\"\" width=\"3840\" height=\"2160\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://hugohalle.com/media/posts/17/responsive/SS24_KeyAr_16x9_4K-xs.png 300w ,https://hugohalle.com/media/posts/17/responsive/SS24_KeyAr_16x9_4K-sm.png 480w ,https://hugohalle.com/media/posts/17/responsive/SS24_KeyAr_16x9_4K-md.png 749w ,https://hugohalle.com/media/posts/17/responsive/SS24_KeyAr_16x9_4K-xl.png 1200w ,https://hugohalle.com/media/posts/17/responsive/SS24_KeyAr_16x9_4K-xxl.png 1600w ,https://hugohalle.com/media/posts/17/responsive/SS24_KeyAr_16x9_4K-xxxl.png 2560w\"></figure>\n<figcaption >Official Poster</figcaption>\n</figure>\n<figure ><figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://hugohalle.com/media/posts/17/SS24_AssetShowcase.jpg\" alt=\"\" width=\"3840\" height=\"2160\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://hugohalle.com/media/posts/17/responsive/SS24_AssetShowcase-xs.jpg 300w ,https://hugohalle.com/media/posts/17/responsive/SS24_AssetShowcase-sm.jpg 480w ,https://hugohalle.com/media/posts/17/responsive/SS24_AssetShowcase-md.jpg 749w ,https://hugohalle.com/media/posts/17/responsive/SS24_AssetShowcase-xl.jpg 1200w ,https://hugohalle.com/media/posts/17/responsive/SS24_AssetShowcase-xxl.jpg 1600w ,https://hugohalle.com/media/posts/17/responsive/SS24_AssetShowcase-xxxl.jpg 2560w\"></figure>\n<figcaption >Asset variation</figcaption>\n</figure>\n<p> </p>\n</div>",
-            "image": "https://hugohalle.com/media/posts/17/hugo-halle-ss24-keyart-notext-16x9-4k.jpg",
+            "id": "https://primordialsoups.com/shroom-head/",
+            "url": "https://primordialsoups.com/shroom-head/",
+            "title": "Shroom Head",
+            "image": "https://primordialsoups.com/media/posts/14/7.jpg",
             "author": {
-                "name": "Hugo Halle"
+                "name": "Primordial Soup"
             },
             "tags": [
-                   "Key-Art // Illustration",
-                   "Key Art"
+                   "Valeria",
+                   "Solo"
             ],
-            "date_published": "2025-03-21T12:21:43+01:00",
-            "date_modified": "2025-04-09T12:04:51+02:00"
+            "date_published": "2025-04-02T15:38:11+02:00",
+            "date_modified": "2025-05-25T23:48:05+02:00"
         }
     ]
 }

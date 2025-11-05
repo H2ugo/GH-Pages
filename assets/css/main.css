@@ -151,7 +151,7 @@ html.no-scroll {
 }
 
 body {
-  background: var(--black); /* OVERRIDE */
+  background: var(--white);
   color: var(--text-color);
   font-family: var(--body-font);
   font-variation-settings: "wght" var(--font-weight-normal);
@@ -710,7 +710,7 @@ textarea {
 /* Wrapper + Header ------------------------ */
 .header {
   align-items: center;
-  background: var(--black); /* OVERRIDE */
+  background: var(--white);
   display: flex;
   height: 6rem;
   left: 0;
@@ -749,7 +749,7 @@ textarea {
   }
 }
 .header.is-visible {
-  background: var(--black); /* OVERRIDE */
+  background: white;
   opacity: 1;
   position: fixed;
   -webkit-transform: translate(0, 0);
@@ -831,7 +831,7 @@ textarea {
   z-index: 999;
 }
 .logo {
-  color: var(--link-color); /* OVERRIDE */
+  color: var(--dark);
   text-decoration: none;
   -webkit-transition: all 0.36s ease-out;
   transition: all 0.36s ease-out;
@@ -876,13 +876,6 @@ textarea {
   position: relative;
   width: auto;
   text-transform: uppercase;
-}
-/* OVERRIDE: ADDED : menu icon color */
-.navbar .navbar__toggle-inner,
-.navbar .navbar__toggle-inner::before,
-.navbar .navbar__toggle-inner::after {
-  background-color: var(--link-color) !important;
-  /* OVERRIDE*/
 }
 .navbar .navbar__menu li a,
 .navbar .navbar__menu li span[aria-haspopup=true] {
@@ -1165,7 +1158,7 @@ textarea {
 .navbar_mobile_overlay {
   -webkit-animation: popup 0.46s cubic-bezier(0.6, 0.04, 0.98, 0.335) forwards;
           animation: popup 0.46s cubic-bezier(0.6, 0.04, 0.98, 0.335) forwards;
-  background: var(--black); /* OVERRIDE */
+  background: var(--white);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1247,7 +1240,7 @@ textarea {
 }
 
 .navbar_mobile_sidebar {
-  background: var(--black); /* OVERRIDE */
+  background: var(--white);
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
           box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
   height: 100vh;
@@ -1341,7 +1334,7 @@ textarea {
 }
 
 .js-loading .preloader {
-  background: var(--black); /* OVERRIDE */
+  background: var(--white);
   bottom: 0;
   display: block;
   height: 100vh;
@@ -1860,10 +1853,8 @@ textarea {
   display: block;
   margin: 0 auto;
   max-width: 100%;
-  /* max-height: 100vh; /* OVERRIDE: Limits the image height to the screen height */
   position: relative;
   width: 100%;
-  /* height: auto; /* OVERRIDE: Keeps the aspect ratio */
 }
 .featured-image--full {
   width: 100%;
@@ -1872,8 +1863,6 @@ textarea {
   display: block;
   height: 100%;
   width: 100%;
-  /* height: 100vh; /* OVERRIDE: Makes the image fit the screen height */
-  /* object-fit: contain; /* OVERRIDE: Ensures the whole image fits without distortion */
 }
 .featured-image > figcaption {
   bottom: 1rem;
@@ -2596,10 +2585,6 @@ textarea {
     display: inline-block;
   }
 }
-/*OVERRIDE - ADDED */
-.pagination > a svg {
-  fill: var(--link-color);
-}
 .pagination > a:hover svg {
   fill: var(--color);
 }
@@ -2788,7 +2773,7 @@ textarea {
   }
 }
 .popup-close::before, .popup-close::after {
-  background-color: var(--link-color); /* OVERRIDE */
+  background-color: var(--gray-1);
   left: 19px;
   content: " ";
   height: 2rem;
@@ -2815,7 +2800,7 @@ textarea {
 
 .footer {
   align-items: center;
-  background: var(--black); /* OVERRIDE */
+  background: var(--white);
   display: flex;
   color: var(--gray-1);
   flex-wrap: wrap;
@@ -2836,7 +2821,7 @@ textarea {
 }
 .footer--dark a,
 .footer--dark .footer__nav a {
-  color: var(--link-color); /* OVERRIDE */
+  color: var(--white);
 }
 .footer--dark .footer__social a:hover svg {
   fill: var(--white);
@@ -3103,4 +3088,3 @@ textarea {
   -webkit-box-shadow: none;
           box-shadow: none;
 }
-
