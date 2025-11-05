@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://hugohalle.com/northern-fire-2/",
+            "url": "https://hugohalle.com/northern-fire-2/",
+            "title": "Banner",
+            "image": "https://hugohalle.com/media/posts/40/Figment2CV_AppStore_AppsGamesWatch.jpg",
+            "author": {
+                "name": "Hugo Halle"
+            },
+            "tags": [
+                   "Key-Art // Illustration",
+                   "Illustration"
+            ],
+            "date_published": "2025-06-12T08:33:04+02:00",
+            "date_modified": "2025-06-12T08:34:41+02:00"
+        },
+        {
             "id": "https://hugohalle.com/northern-fire/",
             "url": "https://hugohalle.com/northern-fire/",
             "title": "Northern Fire",
@@ -21,8 +36,8 @@
                    "Key-Art // Illustration",
                    "Illustration"
             ],
-            "date_published": "2025-05-14T23:49:38+03:00",
-            "date_modified": "2025-05-14T23:56:05+03:00"
+            "date_published": "2025-05-14T22:49:38+02:00",
+            "date_modified": "2025-05-14T22:56:05+02:00"
         },
         {
             "id": "https://hugohalle.com/video-ghastlies/",
@@ -38,8 +53,8 @@
                    "Key-Art // Illustration",
                    "Key Art"
             ],
-            "date_published": "2025-05-14T23:49:23+03:00",
-            "date_modified": "2025-05-14T23:54:46+03:00"
+            "date_published": "2025-05-14T22:49:23+02:00",
+            "date_modified": "2025-05-14T22:54:46+02:00"
         },
         {
             "id": "https://hugohalle.com/stone-golems/",
@@ -55,8 +70,8 @@
                    "Key-Art // Illustration",
                    "Illustration"
             ],
-            "date_published": "2025-03-21T13:48:31+02:00",
-            "date_modified": "2025-04-09T13:02:04+03:00"
+            "date_published": "2025-03-21T12:48:31+01:00",
+            "date_modified": "2025-04-09T12:02:04+02:00"
         },
         {
             "id": "https://hugohalle.com/jester-final-act/",
@@ -72,8 +87,8 @@
                    "Key-Art // Illustration",
                    "Illustration"
             ],
-            "date_published": "2025-03-21T13:42:57+02:00",
-            "date_modified": "2025-04-09T13:02:18+03:00"
+            "date_published": "2025-03-21T12:42:57+01:00",
+            "date_modified": "2025-04-09T12:02:18+02:00"
         },
         {
             "id": "https://hugohalle.com/titan-hunt/",
@@ -89,8 +104,8 @@
                    "Key-Art // Illustration",
                    "Illustration"
             ],
-            "date_published": "2025-03-21T13:35:14+02:00",
-            "date_modified": "2025-04-09T13:02:26+03:00"
+            "date_published": "2025-03-21T12:35:14+01:00",
+            "date_modified": "2025-04-09T12:02:26+02:00"
         },
         {
             "id": "https://hugohalle.com/odins-palm-2/",
@@ -106,8 +121,8 @@
                    "Key-Art // Illustration",
                    "Illustration"
             ],
-            "date_published": "2025-03-21T13:34:58+02:00",
-            "date_modified": "2025-04-09T13:02:33+03:00"
+            "date_published": "2025-03-21T12:34:58+01:00",
+            "date_modified": "2025-04-09T12:02:33+02:00"
         },
         {
             "id": "https://hugohalle.com/figment2-creedvalley/",
@@ -123,8 +138,8 @@
                    "Key-Art // Illustration",
                    "Key Art"
             ],
-            "date_published": "2025-03-21T13:24:32+02:00",
-            "date_modified": "2025-04-09T13:02:50+03:00"
+            "date_published": "2025-03-21T12:24:32+01:00",
+            "date_modified": "2025-04-09T12:02:50+02:00"
         },
         {
             "id": "https://hugohalle.com/saveandsound-2023/",
@@ -140,8 +155,8 @@
                    "Key-Art // Illustration",
                    "Key Art"
             ],
-            "date_published": "2025-03-21T13:21:53+02:00",
-            "date_modified": "2025-04-09T13:04:40+03:00"
+            "date_published": "2025-03-21T12:21:53+01:00",
+            "date_modified": "2025-04-09T12:04:40+02:00"
         },
         {
             "id": "https://hugohalle.com/saveandsound-2024/",
@@ -157,8 +172,8 @@
                    "Key-Art // Illustration",
                    "Key Art"
             ],
-            "date_published": "2025-03-21T13:21:43+02:00",
-            "date_modified": "2025-04-09T13:04:51+03:00"
+            "date_published": "2025-03-21T12:21:43+01:00",
+            "date_modified": "2025-04-09T12:04:51+02:00"
         }
     ]
 }

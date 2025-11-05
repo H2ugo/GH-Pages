@@ -3,12 +3,27 @@
     <title>HUGO HALLÉ</title>
     <link href="https://hugohalle.com/feed.xml" rel="self" />
     <link href="https://hugohalle.com" />
-    <updated>2025-05-14T23:56:05+03:00</updated>
+    <updated>2025-06-12T08:34:41+02:00</updated>
     <author>
         <name>Hugo Halle</name>
     </author>
     <id>https://hugohalle.com</id>
 
+    <entry>
+        <title>Banner</title>
+        <author>
+            <name>Hugo Halle</name>
+        </author>
+        <link href="https://hugohalle.com/northern-fire-2/"/>
+        <id>https://hugohalle.com/northern-fire-2/</id>
+        <media:content url="https://hugohalle.com/media/posts/40/Figment2CV_AppStore_AppsGamesWatch.jpg" medium="image" />
+            <category term="Key-Art // Illustration"/>
+            <category term="Illustration"/>
+
+        <updated>2025-06-12T08:33:04+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Northern Fire</title>
         <author>
@@ -20,7 +35,7 @@
             <category term="Key-Art // Illustration"/>
             <category term="Illustration"/>
 
-        <updated>2025-05-14T23:49:38+03:00</updated>
+        <updated>2025-05-14T22:49:38+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -35,7 +50,7 @@
             <category term="Key-Art // Illustration"/>
             <category term="Key Art"/>
 
-        <updated>2025-05-14T23:49:23+03:00</updated>
+        <updated>2025-05-14T22:49:23+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/38/VideoGhastlies_KeyArt_1440_16x9_NoLogo.jpg" alt="" />
@@ -70,7 +85,7 @@
             <category term="Key-Art // Illustration"/>
             <category term="Illustration"/>
 
-        <updated>2025-03-21T13:48:31+02:00</updated>
+        <updated>2025-03-21T12:48:31+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/23/2024-10-02-18.30.13.jpg" alt="" />
@@ -102,7 +117,7 @@
             <category term="Key-Art // Illustration"/>
             <category term="Illustration"/>
 
-        <updated>2025-03-21T13:42:57+02:00</updated>
+        <updated>2025-03-21T12:42:57+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/22/FigmentCV_JesterIllu_2K.jpg" alt="" />
@@ -133,7 +148,7 @@
             <category term="Key-Art // Illustration"/>
             <category term="Illustration"/>
 
-        <updated>2025-03-21T13:35:14+02:00</updated>
+        <updated>2025-03-21T12:35:14+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/21/TrashTitans_BossFightD.jpg" alt="" />
@@ -165,7 +180,7 @@
             <category term="Key-Art // Illustration"/>
             <category term="Illustration"/>
 
-        <updated>2025-03-21T13:34:58+02:00</updated>
+        <updated>2025-03-21T12:34:58+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/20/OdinsPalm02F.jpg" alt="" />
@@ -196,7 +211,7 @@
             <category term="Key-Art // Illustration"/>
             <category term="Key Art"/>
 
-        <updated>2025-03-21T13:24:32+02:00</updated>
+        <updated>2025-03-21T12:24:32+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/19/2024-10-02-18.29.18-2.jpg" alt="" />
@@ -232,7 +247,7 @@
             <category term="Key-Art // Illustration"/>
             <category term="Key Art"/>
 
-        <updated>2025-03-21T13:21:53+02:00</updated>
+        <updated>2025-03-21T12:21:53+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/18/hugo-halle-ss23-keyart-notxt-v2-16x9-4k.jpg" alt="" />
@@ -268,7 +283,7 @@
             <category term="Key-Art // Illustration"/>
             <category term="Key Art"/>
 
-        <updated>2025-03-21T13:21:43+02:00</updated>
+        <updated>2025-03-21T12:21:43+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/17/hugo-halle-ss24-keyart-notext-16x9-4k.jpg" alt="" />
