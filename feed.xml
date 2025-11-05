@@ -3,61 +3,36 @@
     <title>HUGO HALLÉ</title>
     <link href="https://hugohalle.com/feed.xml" rel="self" />
     <link href="https://hugohalle.com" />
-    <updated>2025-11-05T10:54:06+01:00</updated>
+    <updated>2025-11-05T11:08:27+01:00</updated>
     <author>
         <name>Hugo Halle</name>
     </author>
     <id>https://hugohalle.com</id>
 
     <entry>
-        <title>Cozy Marbles</title>
+        <title>Silver Lining</title>
         <author>
             <name>Hugo Halle</name>
         </author>
-        <link href="https://hugohalle.com/video-ghastlies-2/"/>
-        <id>https://hugohalle.com/video-ghastlies-2/</id>
-        <media:content url="https://hugohalle.com/media/posts/41/CozyMarbles_KeyArt_16x9-2.png" medium="image" />
+        <link href="https://hugohalle.com/silverlining/"/>
+        <id>https://hugohalle.com/silverlining/</id>
+        <media:content url="https://hugohalle.com/media/posts/42/PatchworkHome_KeyArt_16x9.png" medium="image" />
             <category term="Key-Art // Illustration"/>
-            <category term="Key Art"/>
+            <category term="Illustration"/>
 
-        <updated>2025-11-05T10:42:46+01:00</updated>
+        <updated>2025-11-05T10:42:54+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hugohalle.com/media/posts/41/CozyMarbles_KeyArt_16x9-2.png" alt="" />
-                    Key Art for the upcoming indie game Cozy Marbles. I was approached me to help them create the store cover for a vibey creative game&hellip;
+                        <img src="https://hugohalle.com/media/posts/42/PatchworkHome_KeyArt_16x9.png" alt="" />
+                    Pitch illustration commissioned for an unannounced game project. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://hugohalle.com/media/posts/41/CozyMarbles_KeyArt_16x9-2.png" class="type:primaryImage" alt="" /></p>
-                <div class="project-text formatted-text container-sm">
-<p>Key Art for the upcoming indie game Cozy Marbles.</p>
-<div class="project-description">
-<p>I was approached me to help them create the store cover for a vibey creative game about building a marble track and watching them race.</p>
-<p>Beside the main artwork, I designed a logo and the composition variants ready to be integrated in Steam.</p>
-</div>
-<figure class="post__image" ><img loading="lazy" src="https://hugohalle.com/media/posts/41/CozyMarbles_KeyArt_16x9_Logo.png" alt="" width="2560" height="1440" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://hugohalle.com/media/posts/41/responsive/CozyMarbles_KeyArt_16x9_Logo-xs.png 300w ,https://hugohalle.com/media/posts/41/responsive/CozyMarbles_KeyArt_16x9_Logo-sm.png 480w ,https://hugohalle.com/media/posts/41/responsive/CozyMarbles_KeyArt_16x9_Logo-md.png 749w ,https://hugohalle.com/media/posts/41/responsive/CozyMarbles_KeyArt_16x9_Logo-xl.png 1200w ,https://hugohalle.com/media/posts/41/responsive/CozyMarbles_KeyArt_16x9_Logo-xxl.png 1600w ,https://hugohalle.com/media/posts/41/responsive/CozyMarbles_KeyArt_16x9_Logo-xxxl.png 2560w">
-<figcaption >Logo Version</figcaption>
-</figure>
-<p> </p>
-</div>
+                    <p><img src="https://hugohalle.com/media/posts/42/PatchworkHome_KeyArt_16x9.png" class="type:primaryImage" alt="" /></p>
+                <p>Pitch illustration commissioned for an unannounced game project. </p>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>Banner</title>
-        <author>
-            <name>Hugo Halle</name>
-        </author>
-        <link href="https://hugohalle.com/northern-fire-2/"/>
-        <id>https://hugohalle.com/northern-fire-2/</id>
-        <media:content url="https://hugohalle.com/media/posts/40/Figment2CV_AppStore_AppsGamesWatch.jpg" medium="image" />
-            <category term="Key-Art // Illustration"/>
-            <category term="Illustration"/>
-
-        <updated>2025-06-12T08:33:04+02:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
     <entry>
         <title>Northern Fire</title>
@@ -301,6 +276,42 @@
 </figure>
 <figure ><figure class="post__image post__image--wide"><img loading="lazy"  src="https://hugohalle.com/media/posts/18/SS23_AssetShowcase_2k.jpg" alt="" width="1920" height="1080" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://hugohalle.com/media/posts/18/responsive/SS23_AssetShowcase_2k-xs.jpg 300w ,https://hugohalle.com/media/posts/18/responsive/SS23_AssetShowcase_2k-sm.jpg 480w ,https://hugohalle.com/media/posts/18/responsive/SS23_AssetShowcase_2k-md.jpg 749w ,https://hugohalle.com/media/posts/18/responsive/SS23_AssetShowcase_2k-xl.jpg 1200w ,https://hugohalle.com/media/posts/18/responsive/SS23_AssetShowcase_2k-xxl.jpg 1600w ,https://hugohalle.com/media/posts/18/responsive/SS23_AssetShowcase_2k-xxxl.jpg 2560w"></figure>
 <figcaption >Graphical Assets</figcaption>
+</figure>
+<p> </p>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Save&amp;Sound 2024</title>
+        <author>
+            <name>Hugo Halle</name>
+        </author>
+        <link href="https://hugohalle.com/saveandsound-2024/"/>
+        <id>https://hugohalle.com/saveandsound-2024/</id>
+        <media:content url="https://hugohalle.com/media/posts/17/hugo-halle-ss24-keyart-notext-16x9-4k.jpg" medium="image" />
+            <category term="Key-Art // Illustration"/>
+            <category term="Key Art"/>
+
+        <updated>2025-03-21T12:21:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hugohalle.com/media/posts/17/hugo-halle-ss24-keyart-notext-16x9-4k.jpg" alt="" />
+                    Key Art for the Save &amp; Sound online music festival - 2024 edition Used as a base for the edition's visual identity, and every piece&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hugohalle.com/media/posts/17/hugo-halle-ss24-keyart-notext-16x9-4k.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="project-text formatted-text container-sm">
+<p>Key Art for the Save &amp; Sound online music festival - 2024 edition <br>Used as a base for the edition's visual identity, and every piece of marketing material.</p>
+<p><strong>Save &amp; Sound:</strong> <br>• Steam front page feature <br>• Online music festival over 4 days <br>• Unique content from 70+ video games</p>
+<p>The event is organized by <a href="Bedtime.io" target="_blank" rel="noopener noreferrer">Bedtime Digital Games</a>. <br><a href="https://www.saveandsound.io">https://www.saveandsound.io</a></p>
+<figure ><figure class="post__image post__image--wide"><img loading="lazy"  src="https://hugohalle.com/media/posts/17/SS24_KeyAr_16x9_4K.png" alt="" width="3840" height="2160" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://hugohalle.com/media/posts/17/responsive/SS24_KeyAr_16x9_4K-xs.png 300w ,https://hugohalle.com/media/posts/17/responsive/SS24_KeyAr_16x9_4K-sm.png 480w ,https://hugohalle.com/media/posts/17/responsive/SS24_KeyAr_16x9_4K-md.png 749w ,https://hugohalle.com/media/posts/17/responsive/SS24_KeyAr_16x9_4K-xl.png 1200w ,https://hugohalle.com/media/posts/17/responsive/SS24_KeyAr_16x9_4K-xxl.png 1600w ,https://hugohalle.com/media/posts/17/responsive/SS24_KeyAr_16x9_4K-xxxl.png 2560w"></figure>
+<figcaption >Official Poster</figcaption>
+</figure>
+<figure ><figure class="post__image post__image--wide"><img loading="lazy"  src="https://hugohalle.com/media/posts/17/SS24_AssetShowcase.jpg" alt="" width="3840" height="2160" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://hugohalle.com/media/posts/17/responsive/SS24_AssetShowcase-xs.jpg 300w ,https://hugohalle.com/media/posts/17/responsive/SS24_AssetShowcase-sm.jpg 480w ,https://hugohalle.com/media/posts/17/responsive/SS24_AssetShowcase-md.jpg 749w ,https://hugohalle.com/media/posts/17/responsive/SS24_AssetShowcase-xl.jpg 1200w ,https://hugohalle.com/media/posts/17/responsive/SS24_AssetShowcase-xxl.jpg 1600w ,https://hugohalle.com/media/posts/17/responsive/SS24_AssetShowcase-xxxl.jpg 2560w"></figure>
+<figcaption >Asset variation</figcaption>
 </figure>
 <p> </p>
 </div>
