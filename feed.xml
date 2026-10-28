@@ -3,7 +3,7 @@
     <title>HUGO HALLÉ</title>
     <link href="https://hugohalle.com/feed.xml" rel="self" />
     <link href="https://hugohalle.com" />
-    <updated>2026-02-19T15:50:07+02:00</updated>
+    <updated>2026-10-23T13:32:17+03:00</updated>
     <author>
         <name>Hugo Halle</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="Illustration"/>
 
         <updated>2025-11-05T11:42:54+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/42/PatchworkHome_KeyArt_16x9-2.png" alt="" />
                     Pitch illustration commissioned for an unannounced game project. 
@@ -61,7 +61,7 @@
             <category term="Key Art"/>
 
         <updated>2025-05-14T23:49:23+03:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/38/VideoGhastlies_KeyArt_1440_16x9_NoLogo.jpg" alt="" />
                     Key Art for the upcoming horror game Video Ghastlies. Indie Publisher ORO Interactive approached me to help them create the key art for the exciting&hellip;
@@ -85,38 +85,6 @@
         </content>
     </entry>
     <entry>
-        <title>Stone Golems</title>
-        <author>
-            <name>Hugo Halle</name>
-        </author>
-        <link href="https://hugohalle.com/stone-golems/"/>
-        <id>https://hugohalle.com/stone-golems/</id>
-        <media:content url="https://hugohalle.com/media/posts/23/2024-10-02-18.30.13.jpg" medium="image" />
-            <category term="Key-Art // Illustration"/>
-            <category term="Illustration"/>
-
-        <updated>2025-03-21T13:48:31+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://hugohalle.com/media/posts/23/2024-10-02-18.30.13.jpg" alt="" />
-                    Process.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://hugohalle.com/media/posts/23/2024-10-02-18.30.13.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-left">Process.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_SketchV1.png" data-size="1920x1080"><img loading="lazy" src="https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_SketchV1-thumbnail.png" alt="" width="480" height="270"></a></figure>
-<figure class="gallery__item"><a href="https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_LineV1.jpg" data-size="3840x2160"><img loading="lazy" src="https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_LineV1-thumbnail.jpg" alt="" width="480" height="270"></a></figure>
-<figure class="gallery__item"><a href="https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_ColSketchV2.png" data-size="1920x1080"><img loading="lazy" src="https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_ColSketchV2-thumbnail.png" alt="" width="480" height="270"></a></figure>
-<figure class="gallery__item"><a href="https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_Col_WIP02.png" data-size="3840x2160"><img loading="lazy" src="https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_Col_WIP02-thumbnail.png" alt="" width="480" height="270"></a></figure>
-<figure class="gallery__item"><a href="https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_16x9_2K.png" data-size="1920x1080"><img loading="lazy" src="https://hugohalle.com/media/posts/23/gallery/Arkenheim_PitchIllustration_16x9_2K-thumbnail.png" alt="" width="480" height="270"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>The Jester&#x27;s Final Act</title>
         <author>
             <name>Hugo Halle</name>
@@ -128,7 +96,7 @@
             <category term="Illustration"/>
 
         <updated>2025-03-21T13:42:57+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/22/FigmentCV_JesterIllu_2K.jpg" alt="" />
                     Story illustration for the game Figment 2: Creed Valley. It ended up being used for a bunch of marketing material. Color variations
@@ -159,7 +127,7 @@
             <category term="Illustration"/>
 
         <updated>2025-03-21T13:35:14+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/21/TrashTitans_BossFightD.jpg" alt="" />
                     Process.
@@ -188,10 +156,10 @@
         <id>https://hugohalle.com/odins-palm-2/</id>
         <media:content url="https://hugohalle.com/media/posts/20/OdinsPalm02F.jpg" medium="image" />
             <category term="Key-Art // Illustration"/>
-            <category term="Illustration"/>
+            <category term="Key Art"/>
 
         <updated>2025-03-21T13:34:58+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/20/OdinsPalm02F.jpg" alt="" />
                     Process.
@@ -222,7 +190,7 @@
             <category term="Key Art"/>
 
         <updated>2025-03-21T13:24:32+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/19/2024-10-02-18.29.18-2.jpg" alt="" />
                     Main illustration used to market the game on most platforms &amp;events. Project Overview
@@ -258,7 +226,7 @@
             <category term="Key Art"/>
 
         <updated>2025-03-21T13:21:53+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/18/hugo-halle-ss23-keyart-notxt-v2-16x9-4k.jpg" alt="" />
                     Key Art for the Save &amp; Sound online music festival - 2023 edition Used as a base for the edition's visual identity, and every piece&hellip;
@@ -294,7 +262,7 @@
             <category term="Key Art"/>
 
         <updated>2025-03-21T13:21:43+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hugohalle.com/media/posts/17/hugo-halle-ss24-keyart-notext-16x9-4k.jpg" alt="" />
                     Key Art for the Save &amp; Sound online music festival - 2024 edition Used as a base for the edition's visual identity, and every piece&hellip;
